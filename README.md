@@ -23,6 +23,10 @@
 
 ## Proofs of Concept
 
+### Hacking LLMs
+
+- [Indirect Prompt Injections](https://github.com/greshake/llm-security): Proof of concept code for indirect prompt injection attacks, by Kai Greshake.
+
 ### LLM-Driven Malware
 
 - [LLMorphism](https://github.com/SPTHvx/SPTH/tree/master/viruses/files/LLMorphism): A self-replicating agent that uses GPT-3.5 as a metamorphic engine, by Second Part to Hell.

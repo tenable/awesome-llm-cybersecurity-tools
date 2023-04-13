@@ -12,6 +12,7 @@
 
 - [Gepetto](https://github.com/JusticeRage/Gepetto): An IDA Pro plugin that queries GPT models for explanatory comments and meaningful variable names (like G-3PO for IDA Pro). Developed by Ivan Kwiatkowski.
 - [GPT-WPRE](https://github.com/moyix/gpt-wpre): Whole-program Reverse Engineering with GPT-3. This is a little toy prototype of a tool that attempts to summarize a whole binary using GPT-3 (specifically the text-davinci-003 model), based on decompiled code provided by Ghidra. Developed by Brendan Dolan-Gavitt.
+- [IATelligence](https://github.com/fr0gger/IATelligence): IATelligence is a Python script that extracts the Import Address Table (IAT) from a PE file and uses OpenAI's GPT-3 model to provide details about each Windows API imported by the file. The script also searches for related MITRE ATT&CK techniques and explains how the API could potentially be used by attackers. Developed by Thomas Roccia.
 
 ## Network Analysis
 

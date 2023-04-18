@@ -16,11 +16,11 @@
 
 ## Network Analysis
 
-- [BurpGPT](#need_repo_link): A BurpSuite plugin, developed by Tenable, that uses GPT to analyse HTTP requests and responses. Developed by Yossi Nisani at Tenable.
+- [BurpGPT](https://github.com/Tenable/BurpGPT): A BurpSuite plugin, developed by Tenable, that uses GPT to analyse HTTP requests and responses. Developed by Yossi Nisani at Tenable.
 
 ## Cloud Security
 
-- [EscalateGPT](#need_repo_link): Uses GPT to discover privilege escalation vulnerabilities in misconfigured Identity Access and Management (IAM) policies for AWS. Developed by Yossi Nisani at Tenable.
+- [EscalateGPT](https://github.com/Tenable/EscalateGPT): Uses GPT to discover privilege escalation vulnerabilities in misconfigured Identity Access and Management (IAM) policies for AWS. Developed by Yossi Nisani at Tenable.
 
 ## Proofs of Concept
 

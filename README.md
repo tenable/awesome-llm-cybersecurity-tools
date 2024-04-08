@@ -16,7 +16,7 @@
 
 ## Network Analysis
 
-- [BurpGPT](https://github.com/Tenable/BurpGPT): A BurpSuite plugin, developed by Tenable, that uses GPT to analyse HTTP requests and responses. Developed by Yossi Nisani at Tenable.
+- [Burp Extension for GPT](https://github.com/tenable/Burp-extension-for-GPT): A BurpSuite plugin, developed by Tenable, that uses GPT to analyse HTTP requests and responses. Developed by Yossi Nisani at Tenable.
 
 ## Cloud Security
 

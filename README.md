@@ -28,7 +28,7 @@
 - [PentestGPT](https://github.com/GreyDGL/PentestGPT) - A helpful pentest assistant, helps pentesters to leverage the power of LLM and gain insigtful AI outputs.
 - [ChatWithBinary](https://github.com/retr0reg/ChatWithBinary) - A helpful assistant the allows diagnosing binary files.
 
-## Penetration testing
+## Thread detection
 
 - [Galah](https://github.com/0x4D31/galah) - An open source tool which creates a honeypot based on LLM.
 

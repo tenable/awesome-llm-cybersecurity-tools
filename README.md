@@ -13,6 +13,7 @@
 - [Gepetto](https://github.com/JusticeRage/Gepetto): An IDA Pro plugin that queries GPT models for explanatory comments and meaningful variable names (like G-3PO for IDA Pro). Developed by Ivan Kwiatkowski.
 - [GPT-WPRE](https://github.com/moyix/gpt-wpre): Whole-program Reverse Engineering with GPT-3. This is a little toy prototype of a tool that attempts to summarize a whole binary using GPT-3 (specifically the text-davinci-003 model), based on decompiled code provided by Ghidra. Developed by Brendan Dolan-Gavitt.
 - [IATelligence](https://github.com/fr0gger/IATelligence): IATelligence is a Python script that extracts the Import Address Table (IAT) from a PE file and uses OpenAI's GPT-3 model to provide details about each Windows API imported by the file. The script also searches for related MITRE ATT&CK techniques and explains how the API could potentially be used by attackers. Developed by Thomas Roccia.
+- [VulChatGPT](https://github.com/ke0z/vulchatgpt): An IDA Pro plugin which helps in finding vulnerabilities in binaries.
 
 ## Network Analysis
 
@@ -21,6 +22,16 @@
 ## Cloud Security
 
 - [EscalateGPT](https://github.com/Tenable/EscalateGPT): Uses GPT to discover privilege escalation vulnerabilities in misconfigured Identity Access and Management (IAM) policies for AWS. Developed by Yossi Nisani at Tenable.
+
+## Assistants
+
+- [PentestGPT](https://github.com/GreyDGL/PentestGPT) - A helpful pentest assistant, helps pentesters to leverage the power of LLM and gain insigtful AI outputs.
+- [ChatWithBinary](https://github.com/retr0reg/ChatWithBinary) - A helpful assistant the allows diagnosing binary files.
+
+## Thread detection
+
+- [Galah](https://github.com/0x4D31/galah) - An open source tool which creates a honeypot based on LLM.
+
 
 ## Proofs of Concept
 
@@ -32,8 +43,3 @@
 
 - [LLMorphism](https://github.com/SPTHvx/SPTH/tree/master/viruses/files/LLMorphism): A self-replicating agent that uses GPT-3.5 as a metamorphic engine, by Second Part to Hell.
 - [Darwin-GPT](https://github.com/muellerberndt/darwin-gpt): A minimal self-replicating agent based on GPT-3.5/4, by Bernhard Mueller.
-
-
-
-
- 
